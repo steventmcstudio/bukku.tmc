@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bukku": {
+      "type": "sse",
+      "url": "https://bukku-mcp-1071110606602.us-central1.run.app/sse"
+    }
+  }
+}
